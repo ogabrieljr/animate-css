@@ -2,7 +2,8 @@
 
 * {
   font-family: 'Permanent Marker', cursive;
-  text-align: center
+  text-align: center;
+  overflow: hidden;
 }
 .letter{
   padding-top: 80px;
